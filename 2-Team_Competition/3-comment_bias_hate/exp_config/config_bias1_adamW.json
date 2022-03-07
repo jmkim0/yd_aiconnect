@@ -5,8 +5,8 @@
     "pretrained_model": "beomi/KcELECTRA-base",  
     "architecture": "ElectraForSequenceClassification",
     "tokenizer_class": "BertTokenizer",
-    "num_classes": 2,
-    "max_seq_len": 50,
+    "num_classes": 3,
+    "max_seq_len": 128,
     "train_epochs": 8,
     "adam_epsilon": 1e-8,
     "seed": 42,
@@ -14,6 +14,6 @@
     "eval_batch_size": 128,
     "learning_rate": 5e-5,
     "warmup_proportion": 0,
-    "run": "hate1_adamW",
+    "run": "bias1_adamW",
     "patience": 10
 }
