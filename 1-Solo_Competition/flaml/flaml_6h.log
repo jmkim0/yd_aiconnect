@@ -1,4 +1,0 @@
-{"record_id": 0, "iter_per_learner": 1, "logged_metric": null, "trial_time": 101.21846461296082, "wall_clock_time": 103.282546043396, "validation_loss": 0.3067160481084377, "config": {"n_estimators": 30, "max_features": 0.9225966347301752, "max_leaves": 899, "criterion": "entropy"}, "learner": "rf", "sample_size": 100000}
-{"record_id": 1, "iter_per_learner": 5, "logged_metric": null, "trial_time": 69.63329720497131, "wall_clock_time": 959.2465646266937, "validation_loss": 0.30625258753778095, "config": {"n_estimators": 18, "max_features": 1.0, "max_leaves": 1094, "criterion": "entropy"}, "learner": "rf", "sample_size": 100000}
-{"record_id": 2, "iter_per_learner": 13, "logged_metric": null, "trial_time": 106.1436038017273, "wall_clock_time": 2557.1036055088043, "validation_loss": 0.3058274492365332, "config": {"n_estimators": 31, "max_features": 1.0, "max_leaves": 1522, "criterion": "entropy"}, "learner": "rf", "sample_size": 100000}
-{"curr_best_record_id": 2}

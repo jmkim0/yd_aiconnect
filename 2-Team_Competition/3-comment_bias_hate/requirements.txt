@@ -1,7 +1,0 @@
-attrdict
-fastprogress
-pandas
-scikit-learn
-matplotlib
-transformers
-ipywidgets

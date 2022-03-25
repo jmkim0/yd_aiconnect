@@ -1,5 +1,6 @@
 1-Solo_Competition/data
-2-Team_Competition/1-covid_ct/data
-2-Team_Competition/2-highway_traffic/data
-2-Team_Competition/3-comment_bias_hate/data
-2-Team_Competition/3-comment_bias_hate/result/*.pt
+2-covid_ct/data
+3-highway_traffic/data
+4-comment_bias_hate/data
+4-comment_bias_hate/result/*.pt
+4-comment_bias_hate/비매너_댓글_식별_발표자료.pdf
