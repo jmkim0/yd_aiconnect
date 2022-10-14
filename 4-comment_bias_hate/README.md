@@ -12,4 +12,4 @@
 모델 checkpoint 파일(.pt)과 예측한 결과 파일(.csv) 저장 폴더 (모델 checkpoint의 경우 용량 문제로 git으로 관리 안 함)
 
 ## 발표자료
-[비매너_댓글_식별_발표자료.pdf - Google Drive](https://drive.google.com/file/d/1oY1wmabIF9Ldpllqxy8yuyXiNFXNIavF/view?usp=sharing)
+[비매너_댓글_식별_발표자료.pdf - Google Drive](https://drive.google.com/file/d/1BPBOqudmrnJkeyNxUClRYD8bB9fIcktO/view?usp=sharing)
